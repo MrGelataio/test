@@ -1,0 +1,17 @@
+2013-10-01 01:14:35 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:riccardodc:Documents:Archivio:Sviluppo:D1:test:test1:test1 Solution:test1.waSolution" for running
+2013-10-01 01:14:35 [com.wakanda-software.test1] INFO - Users and groups directory opened
+2013-10-01 01:14:35 [com.wakanda-software.test1.test1] INFO - Datastore opened
+2013-10-01 01:14:35 [com.wakanda-software.test1.test1] INFO - "test1" project opened
+2013-10-01 01:14:35 [com.wakanda-software.test1.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-01 01:14:35 [com.wakanda-software.test1] INFO - "test1" solution opened
+2013-10-01 01:14:35 [com.wakanda-software] INFO - Starts "test1" solution
+2013-10-01 01:14:36 [com.wakanda-software.test1.ServerAdmin] INFO - HTTP Server started
+2013-10-01 01:14:36 [com.wakanda-software.test1.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-01 01:14:36 [com.wakanda-software.test1.test1] INFO - HTTP Server started
+2013-10-01 01:14:36 [com.wakanda-software.test1.test1] INFO - "test1" project started
+2013-10-01 01:14:36 [com.wakanda-software.test1.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-01 01:14:36 [com.wakanda-software.test1.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-01 01:14:36 [com.wakanda-software.test1.test1] INFO - Executes the bootstrap file(s)
+2013-10-01 01:14:36 [com.wakanda-software.test1.test1] INFO - Bootstrap file(s) executed
+2013-10-01 01:14:36 [com.wakanda-software.test1] INFO - "test1" solution started
+2013-10-01 01:14:36 [com.wakanda-software] INFO - "test1" solution has been successfully opened for running (duration: 404 ms)
